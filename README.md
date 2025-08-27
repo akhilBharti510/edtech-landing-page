@@ -6,15 +6,7 @@ Built using **HTML5, CSS3, Bootstrap, and Font Awesome**.
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view](https://<your-username>.github.io/edtech-landing-page/)  
-
----
-
-## 📸 Screenshots  
-
-| Hero Section | Services Section |
-|--------------|------------------|
-| ![Hero](assets/images/hero-bg.jpg) | ![Services](assets/images/banner-bg.jpg) |
+👉 [Click here to view](https://akhilbharti510.github.io/edtech-landing-page/)  
 
 ---
 
